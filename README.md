@@ -2,6 +2,20 @@
 
 A simple Natural Language to SQL application that allows users to upload a SQLite database and ask questions about the data using plain English.
 
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/1.jpg)
+
+### Natural Language Query
+
+![Natural Language Query](screenshots/2.jpg)
+
+### Query Result
+
+![Query Result](screenshots/3.jpg)
+
 ## Features
 
 * Upload SQLite databases
